@@ -1,5 +1,5 @@
 # Virtual-Machines-and-Remote-Desktops
-Resource Group is created to hold Virtual Machines.
+A Resource Group is created to hold Virtual Machines.
 
 I will be creating two Virtual Machines, creating the first VM (virtual machine) specifically a Windows virtual machine.
 
