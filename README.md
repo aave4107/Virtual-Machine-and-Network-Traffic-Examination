@@ -5,7 +5,7 @@ I will be creating two Virtual Machines, creating the first VM (virtual machine)
 
 Since I am creating two VMs and examining the traffic between those two, I will create a Virtual Network within the Resource Group to hold the two Virtual Machines.
 
-The Second Virtual Machine is a Linux VM, then I attach it to the same Virtual Network that the Windows one is in.
+The Second Virtual Machine is a Linux VM, and I attach it to the same Virtual Network that the Windows one is in.
 
 Next, I examine the traffic between the two VMs
 ![Screenshot 2025-05-28 112133](https://github.com/user-attachments/assets/8fdb0f2d-f68a-4be1-9258-6a29f33eb96b)
