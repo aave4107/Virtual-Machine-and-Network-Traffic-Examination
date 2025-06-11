@@ -18,6 +18,7 @@ The Second Virtual Machine is a Linux VM, to make the VM into a Linux VM make su
 
 ![Screenshot 2025-06-11 062057](https://github.com/user-attachments/assets/0e1dafe1-8542-4107-92f0-395857f004ae)
 
+It will automatically be put in the lab 2 vnet virtual network when creating the new VM.
 
 Next, I examine the traffic between the two VMs
 ![Screenshot 2025-05-28 112133](https://github.com/user-attachments/assets/8fdb0f2d-f68a-4be1-9258-6a29f33eb96b)
