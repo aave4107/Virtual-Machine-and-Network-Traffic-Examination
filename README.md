@@ -24,6 +24,7 @@ Next, I examine the traffic between the two VMs
 ![Screenshot 2025-05-28 112133](https://github.com/user-attachments/assets/8fdb0f2d-f68a-4be1-9258-6a29f33eb96b)
 
 To access the Remote Desktop, I use the IP address of the Windows VM that was created, and use Remote Desktop Connection 
+
 ![Screenshot 2025-05-28 115603](https://github.com/user-attachments/assets/d74d3573-c99f-4bbf-bfd1-2991af2b01fb)
 
 Once inside the VM, I download a program named Wireshark. This is needed to see the ICMP traffic going on between the two VMs
