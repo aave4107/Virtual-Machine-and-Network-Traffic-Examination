@@ -5,20 +5,20 @@ I will be creating two Virtual Machines, creating the first VM (virtual machine)
 
 ![Screenshot 2025-06-10 175525](https://github.com/user-attachments/assets/3fea9d55-8fe8-4615-beaf-3d4f700d76a4)
 
-In the image above the most important settings to apply to make sure it is the windows VM we need is in the image option and selecting Windows 10 Pro and not another image like linux.
+In the image above, the most important settings to apply to make sure it is the Windows VM we need are in the image option and selecting Windows 10 Pro and not another image like Linux.
 
 Since I am creating two VMs and examining the traffic between those two, I will create a Virtual Network within the Resource Group to hold the two Virtual Machines.
 
-while creating the Windows VM on the network settings section there is an option where it will create a default virtual network instead seleact create new and change the name to Lab2-vnet, like the image below.
+While creating the Windows VM on the network settings section, there is an option will create a default virtual network instead. Select Create New and change the name to Lab2-vnet, like the image below.
 
 ![Screenshot 2025-06-10 182026](https://github.com/user-attachments/assets/41a68be6-0fad-4526-b9ee-5b7a196306dd)
 
 
-The Second Virtual Machine is a Linux VM, to make the VM into a Linux VM make sure the image has this ubuntu server applied, like in the image below.
+The Second Virtual Machine is a Linux VM to make the VM into a Linux VM. Make sure the image has this Ubuntu server applied, like in the image below.
 
 ![Screenshot 2025-06-11 062057](https://github.com/user-attachments/assets/0e1dafe1-8542-4107-92f0-395857f004ae)
 
-It will automatically be put in the lab 2 vnet virtual network when creating the new VM.
+It will automatically be put in the lab 2 virtual network when creating the new VM.
 
 Next, I examine the traffic between the two VMs
 ![Screenshot 2025-05-28 112133](https://github.com/user-attachments/assets/8fdb0f2d-f68a-4be1-9258-6a29f33eb96b)
